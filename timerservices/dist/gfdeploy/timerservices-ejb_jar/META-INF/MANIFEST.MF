@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 14.2-b01 (Sun Microsystems Inc.)
+Class-Path: jbossall-client.jar jboss-ejb3x.jar ejb3-persistence.jar a
+ ppserv-rt.jar imqjmsra.jar javaee.jar 
+
